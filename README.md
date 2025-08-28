@@ -14,7 +14,8 @@
 
 ## 📖 Deskripsi
 
-Proyek ini adalah **web scraping tool** untuk mengambil kutipan (quotes) dari [Goodreads Quotes](https://www.goodreads.com/quotes).  
+Proyek ini adalah <strong>web scraping tool</strong> untuk mengambil kutipan (quotes) dari 
+<a href="https://www.goodreads.com/quotes" target="_blank">Goodreads Quotes</a>. 
 Data yang dikumpulkan meliputi:
 
 - **No** → nomor urut quote  
