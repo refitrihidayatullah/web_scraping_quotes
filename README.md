@@ -10,7 +10,7 @@
 
 ---
 ## 📖 download here!
-👉 [**Download Goodreads Scraper (Windows .exe)**](https://github.com/refitrihidayatullah/web_scraping_quotes/releases/latest)
+👉 [**Download Goodreads Scraper (Windows .exe)**](https://github.com/refitrihidayatullah/web_scraping_quotes/releases/download/v1.0/scraper.exe)
 
 ## 📖 Deskripsi
 
@@ -69,7 +69,7 @@ Jika ingin membuat versi portable .exe:
 
 Jika tidak ingin repot build, kamu bisa langsung download file .exe di sini:
 
-👉 [**Download Goodreads Scraper (Windows .exe)**](https://github.com/refitrihidayatullah/web_scraping_quotes/releases/latest)
+👉 [**Download Goodreads Scraper (Windows .exe)**](https://github.com/refitrihidayatullah/web_scraping_quotes/releases/download/v1.0/scraper.exe)
 
 
 
